@@ -1,0 +1,6 @@
+mongodb:
+  host: localhost
+  port: 27017
+  blocks_dbname: InteractionDesignBlocks
+  blocks_collection: interactionBlocks
+  blocks_keyname: Interaction_DB

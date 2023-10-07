@@ -1,0 +1,18 @@
+tags:
+  askQuestionTag:
+    pages:
+      - index
+      - displayinfo
+      - displayimage
+      - displaytext
+  confirmationTag:
+    pages:
+      - index
+      - displayinfo
+      - displayimage
+      - confirmation
+  offerHelpTag:
+    pages:
+      - index
+      - displayinfo
+      - help
